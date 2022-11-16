@@ -1,7 +1,6 @@
 # Prof. Dra Isabel Homczinski
 ### Doutora e Mestre em Ciências Florestais. Especialista em Biodiversidade. Professora de Biologia.
 ### Presto assessoria na elaboração de textos e questionários nas normas cientificas, organização, análise estatística, interpretação de dados e confecção de gráficos e tabelas no software R, elaboração de relatórios em Rmarkdown com tutoriais em vídeos da programação por trás da análise, elaboração de mapa e pranchas de imagens. Com conhecimento em dashboard, Power bi, Overleaf (Editor LaTeX Online), editor de vídeos. Com assessoria via meet.
-#### Contate-me pelo whatsapp: (42) 999651511
 
 <div align="center">
   <a href="https://github.com/Bellhom">
@@ -23,7 +22,8 @@
  </div>
   
   ##
-  
+  # Minhas redes sociais e formas de me contactar
+  #### Contate-me pelo whatsapp: (42) 999651511
   <div> 
   <a href="https://www.youtube.com/channel/UC49MOdm6Jcb_GvdomZc2aYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bebell_homczinski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
